@@ -1,0 +1,22 @@
+{
+  "name": "mytestapp",
+  "version": "1.0.0",
+  "description": "This is my first repo for my local development",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KumarLokesh527/myTestApp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KumarLokesh527/myTestApp/issues"
+  },
+  "homepage": "https://github.com/KumarLokesh527/myTestApp#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
